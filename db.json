@@ -1,0 +1,74 @@
+{
+  "productos": [
+    {
+      "nombre": "Nintendo Switch",
+      "precio": 350000,
+      "id": 15
+    },
+    {
+      "nombre": "iphone 14",
+      "precio": 1200000,
+      "id": 16
+    },
+    {
+      "nombre": "ipad pro",
+      "precio": 800000,
+      "id": 17
+    },
+    {
+      "nombre": "mac book air 13",
+      "precio": 1500000,
+      "id": 18
+    },
+    {
+      "nombre": "asus gaming",
+      "precio": 1200000,
+      "id": 19
+    },
+    {
+      "nombre": "Acer gaming",
+      "precio": 1400000,
+      "id": 20
+    },
+    {
+      "nombre": "xbox serie s",
+      "precio": 300000,
+      "id": 21
+    },
+    {
+      "nombre": "xbox serie x",
+      "precio": 610000,
+      "id": 22
+    },
+    {
+      "nombre": "nokia 7600",
+      "precio": 300000,
+      "id": 23
+    },
+    {
+      "nombre": "ipad air",
+      "precio": 500000,
+      "id": 24
+    },
+    {
+      "nombre": "samsung notebook 14",
+      "precio": 900000,
+      "id": 25
+    },
+    {
+      "nombre": "logitech mouse",
+      "precio": 65000,
+      "id": 26
+    },
+    {
+      "nombre": "mouse razerrr",
+      "precio": 35000,
+      "id": 27
+    },
+    {
+      "nombre": "parlantes soundcore",
+      "precio": 45000,
+      "id": 28
+    }
+  ]
+}
