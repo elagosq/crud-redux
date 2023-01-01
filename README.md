@@ -1,6 +1,6 @@
 # Crud-Redux
 
-<p align="justify">proyecto web app de productos que se desarrollo en React vite,redux,hooks,api rest y axios.</br></br>
+<p align="justify">Proyecto web app de productos que se desarrollo en React vite,redux,hooks,api rest y axios.</br></br>
 reactcrud-redux.netlify.app
 </p>
 
